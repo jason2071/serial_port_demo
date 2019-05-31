@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu">
+       <!-- <item>beep</item>
+        <item>red</item>
+        <item>system info</item>
+        <item>module version</item>
+        <item>config info</item>-->
+        <item>serial port</item>
+    </string-array>
+</resources>
